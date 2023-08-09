@@ -1,6 +1,6 @@
 ![logot](images/tosipaikka_logot.png)
 
-# tosipaikka-decawave-reader
+# Tosipaikka - Decawave UWB
 
 Sovellus lukee USB-portin kautta etäisyysmittauksia ja sijaintitietoa Decawave MDEK1001 -sisätilapaikannusjärjestelmän tunniste-moduulista.
 
