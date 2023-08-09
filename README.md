@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/676476268.svg)](https://zenodo.org/badge/latestdoi/676476268)
+
 ![logot](images/tosipaikka_logot.png)
 
 # Tosipaikka - Decawave UWB
